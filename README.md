@@ -2,9 +2,9 @@
 Code for GridWarrior Competition, Techfest - 2014 (IIT Bombay) 
 
 ## Team Members
-* [Nilay Sheth]()
-* [Rahul Solanki]()
-* [Udit Patadia]()
+* [Nilay Sheth](https://github.com/nilay994)
+* [Rahul Solanki](https://github.com/rahul411)
+* [Udit Patadia](https://github.com/udit7395)
 
 ### Components Used
 * Custom PCB with Atmega16 Microcontroller
